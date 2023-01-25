@@ -1,6 +1,6 @@
 """
 
-@author: Ahmed Issa
+@authors: Ahmed Issa, Ali Mohamed
 """
 
 # Jumia
