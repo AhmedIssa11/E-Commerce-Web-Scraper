@@ -10,7 +10,7 @@
 #
 
 ### This Script Enables The Users to:
-- Search for any product available either on Amazon, Jumia, Noon, Souq
+- Search for any product available either on Amazon, Jumia, Noon and Souq
 - Extract information about the product and save these information in a CSV file
 - Compare the product price, picture and quality of products
 
